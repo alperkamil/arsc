@@ -5,6 +5,6 @@ setup(name='arsc',
       description='Supervisor Synthesizing Algorithms for Discrete Event Systems under Regular-Rewriting Actuator and Sensor Attacks',
       url='http://github.com/alperkamil/arsc',
       author='Alper Kamil Bozkurt',
-      license='MIT',
+      license='Apache License 2.0',
       packages=['arsc'],
       zip_safe=False)
