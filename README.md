@@ -1,5 +1,5 @@
 # Attack-Resilient Supervisory Control of Discrete Event Systems under Regular-Rewriting Actuator and Sensor Attacks
-This repository includes the implementation of supervisors for discrete event systems againt several types of attacks.
+This repository includes the implementation of our approach described [here](https://ieeexplore.ieee.org/abstract/document/10167797), which provides supervisors for discrete event systems against several types of attacks.
 ## Dependencies
  - ```Python``` (>=3.5)
  - ```OpenFst```(>=1.6.1) with ```pywrapfst``` module
@@ -38,9 +38,9 @@ You can download and install the standalone Python wrappers for 64-bit Windows f
 
 |  Python Version  | File |
 | ---------------- |:-------------:|
-| ```Python 3.5``` | [pywrapfst-1.6.9-cp35-cp35m-win_amd64.whl](https://users.cs.duke.edu/~abozkurt/misc/pywrapfst-win/pywrapfst-1.6.9-cp35-cp35m-win_amd64.whl) |
-| ```Python 3.6``` | [pywrapfst-1.6.9-cp36-cp36m-win_amd64.whl](https://users.cs.duke.edu/~abozkurt/misc/pywrapfst-win/pywrapfst-1.6.9-cp36-cp36m-win_amd64.whl) |
-| ```Python 3.7``` | [pywrapfst-1.6.9-cp37-cp37m-win_amd64.whl](https://users.cs.duke.edu/~abozkurt/misc/pywrapfst-win/pywrapfst-1.6.9-cp37-cp37m-win_amd64.whl) |
+| ```Python 3.5``` | [pywrapfst-1.6.9-cp35-cp35m-win_amd64.whl](https://www.cs.umd.edu/~bozkurt/misc/pywrapfst-win/pywrapfst-1.6.9-cp35-cp35m-win_amd64.whl) |
+| ```Python 3.6``` | [pywrapfst-1.6.9-cp36-cp36m-win_amd64.whl](https://www.cs.umd.edu/~bozkurt/misc/pywrapfst-win/pywrapfst-1.6.9-cp36-cp36m-win_amd64.whl) |
+| ```Python 3.7``` | [pywrapfst-1.6.9-cp37-cp37m-win_amd64.whl](https://www.cs.umd.edu/~bozkurt/misc/pywrapfst-win/pywrapfst-1.6.9-cp37-cp37m-win_amd64.whl) |
 
 After that you can simply install the Python wrapper using ```pip```.
 ```
